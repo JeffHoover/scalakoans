@@ -14,16 +14,18 @@
 [0m[[0minfo[0m] [0m[32m- Backticks can also be used to spite your co-workers and send them into a spiral of confusion and agony![0m[0m
 [0m[[0minfo[0m] [0m[32m- A lazy val is assignment that will not evaluated until it is called. Note there is no lazy var[0m[0m
 [0m[[0minfo[0m] [0m[32mAboutLiteralBooleans:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Boolean literals are either true or false, using the true or false keyword[0m[0m
+[0m[[0minfo[0m] [0m[32mAboutLiteralNumbers:[0m[0m
 [0m[[0minfo[0m] [0m[33m  + ***************************************** [0m[0m
 [0m[[0minfo[0m] [0m[33m  + ***************************************** [0m[0m
 [0m[[0minfo[0m] [0m[33m  +  [0m[0m
 [0m[[0minfo[0m] [0m[33m  +  [0m[0m
 [0m[[0minfo[0m] [0m[33m  +  [0m[0m
-[0m[[0minfo[0m] [0m[33m  + Please meditate on koan "Boolean literals are either true or false, using the true or false keyword" of suite "AboutLiteralBooleans" [0m[0m
+[0m[[0minfo[0m] [0m[33m  + Please meditate on koan "Integer Literals are 32-bit and can be created from decimal, hexadecimal" of suite "AboutLiteralNumbers" [0m[0m
 [0m[[0minfo[0m] [0m[33m  +  [0m[0m
 [0m[[0minfo[0m] [0m[33m  +  [0m[0m
 [0m[[0minfo[0m] [0m[33m  +  [0m[0m
 [0m[[0minfo[0m] [0m[33m  + ***************************************** [0m[0m
 [0m[[0minfo[0m] [0m[33m  + ***************************************** [0m[0m
-[0m[[0minfo[0m] [0m[32mInfo Provided - AboutLiteralBooleans[0m[0m
+[0m[[0minfo[0m] [0m[32mInfo Provided - AboutLiteralNumbers[0m[0m
 [0m[[0minfo[0m] [0m[32mInfo Provided - Koans[0m[0m
