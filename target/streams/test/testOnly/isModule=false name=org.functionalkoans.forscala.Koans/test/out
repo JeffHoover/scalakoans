@@ -88,12 +88,16 @@
 [0m[[0minfo[0m] [0m[32m- An abstract class, as in Java, cannot be instantiated and only inherited[0m[0m
 [0m[[0minfo[0m] [0m[32m- A class can be placed inside an abstract class just like in java[0m[0m
 [0m[[0minfo[0m] [0m[32mAboutOptions:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Option can have one of two values - Some or None[0m[0m
+[0m[[0minfo[0m] [0m[32m- Represent null with None because null is a bad idea[0m[0m
+[0m[[0minfo[0m] [0m[32m- Provide a default value for None[0m[0m
+[0m[[0minfo[0m] [0m[32m- checking whether option has value[0m[0m
 [0m[[0minfo[0m] [0m[33m  + ***************************************** [0m[0m
 [0m[[0minfo[0m] [0m[33m  + ***************************************** [0m[0m
 [0m[[0minfo[0m] [0m[33m  +  [0m[0m
 [0m[[0minfo[0m] [0m[33m  +  [0m[0m
 [0m[[0minfo[0m] [0m[33m  +  [0m[0m
-[0m[[0minfo[0m] [0m[33m  + Please meditate on koan "Option can have one of two values - Some or None" of suite "AboutOptions" [0m[0m
+[0m[[0minfo[0m] [0m[33m  + Please meditate on koan "Option can also be used with pattern matching" of suite "AboutOptions" [0m[0m
 [0m[[0minfo[0m] [0m[33m  +  [0m[0m
 [0m[[0minfo[0m] [0m[33m  +  [0m[0m
 [0m[[0minfo[0m] [0m[33m  +  [0m[0m
