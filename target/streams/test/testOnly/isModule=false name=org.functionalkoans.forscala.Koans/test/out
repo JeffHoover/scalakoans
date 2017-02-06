@@ -71,16 +71,28 @@
 [0m[[0minfo[0m] [0m[32m- Methods with colons are right-associative, that means the object that a method is on will be on[0m[0m
 [0m[[0minfo[0m] [0m[32mthe _right_ and the method parameter will be on the _left_[0m[0m
 [0m[[0minfo[0m] [0m[32mAboutClasses:[0m[0m
+[0m[[0minfo[0m] [0m[32m- val parameters in class definition define getter[0m[0m
+[0m[[0minfo[0m] [0m[32m- var parameters in class definition define getter and setter[0m[0m
+[0m[[0minfo[0m] [0m[32m- fields defined internally are private to class[0m[0m
+[0m[[0minfo[0m] [0m[32mAboutUniformAccessPrinciple:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Can access age as parameterless method[0m[0m
+[0m[[0minfo[0m] [0m[32m- Can access age as property[0m[0m
+[0m[[0minfo[0m] [0m[32m- Cannot add parameter to Method invocation[0m[0m
+[0m[[0minfo[0m] [0m[32m- What happens when I update current year using property[0m[0m
+[0m[[0minfo[0m] [0m[32m- What happens when I update current year using method[0m[0m
+[0m[[0minfo[0m] [0m[32mAboutConstructors:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Class with no class parameters is called with no arguments[0m[0m
+[0m[[0minfo[0m] [0m[32mAboutParentClasses:[0m[0m
 [0m[[0minfo[0m] [0m[33m  + ***************************************** [0m[0m
 [0m[[0minfo[0m] [0m[33m  + ***************************************** [0m[0m
 [0m[[0minfo[0m] [0m[33m  +  [0m[0m
 [0m[[0minfo[0m] [0m[33m  +  [0m[0m
 [0m[[0minfo[0m] [0m[33m  +  [0m[0m
-[0m[[0minfo[0m] [0m[33m  + Please meditate on koan "val parameters in class definition define getter" of suite "AboutClasses" [0m[0m
+[0m[[0minfo[0m] [0m[33m  + Please meditate on koan "Class hierarchy is linear, a class can only extend from one parent class" of suite "AboutParentClasses" [0m[0m
 [0m[[0minfo[0m] [0m[33m  +  [0m[0m
 [0m[[0minfo[0m] [0m[33m  +  [0m[0m
 [0m[[0minfo[0m] [0m[33m  +  [0m[0m
 [0m[[0minfo[0m] [0m[33m  + ***************************************** [0m[0m
 [0m[[0minfo[0m] [0m[33m  + ***************************************** [0m[0m
-[0m[[0minfo[0m] [0m[32mInfo Provided - AboutClasses[0m[0m
+[0m[[0minfo[0m] [0m[32mInfo Provided - AboutParentClasses[0m[0m
 [0m[[0minfo[0m] [0m[32mInfo Provided - Koans[0m[0m

@@ -12,10 +12,10 @@ class AboutConstructors extends KoanSuite {
     }
   }
 
-  koan("Primary constructor specified with a parameter requires that parameter to be passed in") {
-    val aboutMe = new AboutConstructorWithAuxiliaryConstructor()
-    aboutMe.name should be (__)
-  }
+//  koan("Primary constructor specified with a parameter requires that parameter to be passed in") {
+//    val aboutMe = new AboutConstructorWithAuxiliaryConstructor()
+//    aboutMe.name should be ("defaultName")
+//  }
 
   class AboutClassWithNoClassParameter
 
